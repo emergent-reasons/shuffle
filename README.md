@@ -1,4 +1,15 @@
-# shuffle
+# DEPRECATED
+
+This repository is archived and will not be maintained.
+
+The CashShuffle plugin went through many revisions here and in another repository and is now included as a standard part of Electron Cash.
+
+You can find CashShuffle documentation at [github.com/cashshuffle/spec](https://github.com/cashshuffle/spec).
+
+You can find Electron Cash at [github.com/Electron-Cash/Electron-Cash](https://github.com/Electron-Cash/Electron-Cash).
+
+----------
+
 
 This plugin for electron-cash BCH wallet. It allows user to make a coinjoin shuffled transaction.
 
